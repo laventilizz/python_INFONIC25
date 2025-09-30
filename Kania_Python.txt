@@ -1,0 +1,27 @@
+NAMA: Kania Rafha Zahira
+NAMA KELOMPOK: Python
+
+1. Pengertian Figma = alat desain berbasis vektor yang dapat diakses 
+online (cloud) baik melalui browser maupun aplikasi.
+
+2. Tujuan Figma = desain User Interface atau User Experience dengan
+interaktif, membuat prototipe, dan berkolaborasi dengan tim secara
+online.
+
+3. Kelebihan Figma = Kolaborasi real-time, aksesibilitas, platform
+all-in-one (bisa melakukan prototipe dan menyerahkan aset ke developer),
+menyimpan riwayat, dan memiliki komunitas besar.
+
+4. Fitur utama Figma = 
+a. Fitur desain yang canggih (vector networks, auto layout, dan components).
+b. Memiliki fitur prototyping (simulasi aplikasi atau website dengan 
+smart animate).
+c. Figjam (papan tulis digital untuk brainstorming).
+d. Developer Handoff (developer dapat memeriksa spesifikasi desain melalui
+mode inspect).
+
+5. Cara memulai Figma = 
+a. Buat akun Figma.
+b. Mengenali antarmuka dasar Figma.
+c. Buat desain sederhana dengan frame, bentuk, dan teks.
+d. Mengeksplorasi tab Community (mencari inspirasi dan source gratis).
