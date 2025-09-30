@@ -1,0 +1,33 @@
+NAMA: Sarah Farhatul Maghfiroh Al Fayumi
+NAMA KELOMPOK: Python
+
+
+Figma adalah aplikasi desain berbasis cloud (online) yang sangat populer untuk membuat antarmuka pengguna (UI) 
+dan pengalaman pengguna (UX). Anggap saja seperti kanvas digital canggih tempat para desainer, pengembang, dan 
+manajer produk bisa bekerja sama secara real-time untuk merancang tampilan aplikasi, website, dan produk digital lainnya.
+Karena berbasis online, Anda tidak perlu menginstal software yang berat di komputer dan bisa mengakses proyek dari browser manapun.
+
+Kegunaan Utama Figma
+ * Desain Antarmuka (UI Design)
+   Ini adalah fungsi utamanya. Desainer menggunakan Figma untuk membuat semua elemen visual dari sebuah aplikasi 
+   atau website, mulai dari tombol, ikon, tata letak halaman, hingga tipografi dan skema warna.
+ * Prototyping
+   Setelah desain selesai, Figma memungkinkan Anda untuk membuat prototype interaktif. Artinya, Anda bisa menghubungkan berbagai 
+   halaman desain untuk mensimulasikan bagaimana pengguna akan berinteraksi dengan produk jadinya. Misalnya, mengklik tombol 
+   "Login" akan membawa ke halaman dashboard. Ini sangat berguna untuk testing sebelum produk benar-benar dibuat (di-coding).
+ * Kolaborasi Tim
+   Ini adalah salah satu keunggulan terbesar Figma. Beberapa orang bisa membuka dan mengedit file desain yang sama secara 
+   bersamaan, persis seperti Google Docs. Anggota tim bisa meninggalkan komentar langsung di area desain, sehingga proses 
+   revisi dan umpan balik menjadi sangat cepat dan efisien.
+ * Membuat Design System
+   Figma sangat ideal untuk membangun dan mengelola design system, yaitu kumpulan komponen desain (seperti tombol, warna, dan ikon) 
+   yang bisa digunakan kembali di seluruh produk. Ini memastikan konsistensi visual di semua halaman dan platform.
+
+Siapa yang Menggunakan Figma?
+ * UI/UX Designers: Tentu saja, ini adalah pengguna utamanya.
+ * Web & App Developers: Untuk melihat spesifikasi desain (ukuran, warna, jarak) dan mengambil aset (ikon, gambar) yang 
+ akan mereka implementasikan ke dalam kode.
+ * Product Managers: Untuk meninjau kemajuan desain, memberikan umpan balik, dan memahami alur produk.
+ * Marketing Teams: Untuk membuat materi promosi visual seperti postingan media sosial atau grafis website.
+Secara singkat, Figma adalah alat serbaguna untuk seluruh proses desain produk digital, dari ide awal hingga serah terima 
+ke tim pengembang, dengan keunggulan utama pada kolaborasi tim yang mudah dan aksesibilitas berbasis cloud.
