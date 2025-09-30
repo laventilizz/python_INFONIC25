@@ -1,0 +1,20 @@
+NAMA : Satria Fahrul Alam
+NAMA KELOMPOK : Python
+
+1. Pengertian Figma : alat desain berbasis cloud untuk membuat UI/UX, prototipe interaktif, dan kolaborasi tim. 
+
+2. Kenapa Figma? : bisa berkolaborasi secara real-time, akses mudah di berbagai OS lewat browser, mencakup semua proses
+mulai desain, prototipe, hingga penyerahan aset ke developer, semua perubahan disimpan secara otomatis dan dapat diakses
+dengan mudah, tersedia banyak plugin dan file gratis dari komunitas
+
+3. Fitur Figma : 
+- Desain: Vector Networks, Auto Layout, Components
+- Prototyping: interaktif dengan Smart Animate
+- FigJam: papan tulis digital 
+- Developer Handoff: akses detail desain untuk developer 
+
+4. Cara Menggunakan :
+- Buat akun 
+- Kenali antarmuka (Canvas, Layers, Properties, Toolbar)
+- Coba desain dasar (frame, shape, teks)
+- Jelajahi tab Community untuk inspirasi
