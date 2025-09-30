@@ -1,0 +1,35 @@
+NAMA: HAIDAR AKMAL AZ ZIKRO
+NAMA KELOMPOK: PYTHON
+
+FIGMA ADALAH: Mengenal Figma
+Figma adalah alat desain canggih yang berbasis cloud, artinya bisa diakses langsung melalui browser atau aplikasi desktop. Fungsi intinya adalah untuk mendesain antarmuka (interface) aplikasi atau website, membuat prototipe interaktif yang bisa diklik, dan memfasilitasi kolaborasi tim secara real-time.
+
+Keunggulan Figma
+Figma menjadi pilihan utama karena beberapa kelebihan:
+
+Kolaborasi Langsung: Mirip seperti Google Docs, beberapa anggota tim bisa bekerja pada file yang sama secara bersamaan.
+
+Akses Universal: Dapat digunakan di sistem operasi apa pun (Mac, Windows, Linux) hanya bermodal browser.
+
+Solusi Lengkap (All-in-One): Semua tahapan kerja  dari desain, prototyping, hingga penyerahan aset ke developer (handoff) tersedia dalam satu aplikasi.
+
+Riwayat Otomatis (Version History): Semua perubahan desain tersimpan secara otomatis, memudahkan pengguna untuk kembali ke versi sebelumnya.
+
+Komunitas Luas: Terdapat banyak plugin dan sumber daya gratis dari komunitas yang mempercepat proses kerja.
+
+Fitur-Fitur Penting
+Figma dilengkapi dengan fitur-fitur kuat:
+
+Alat Desain: Mencakup Vector Networks, Auto Layout (untuk desain yang fleksibel dan responsif), dan Components (elemen desain yang dapat dipakai berulang).
+
+Prototyping: Memungkinkan simulasi interaktif dari produk akhir dengan animasi canggih (Smart Animate).
+
+FigJam: Whiteboard digital terpisah yang berguna untuk brainstorming dan sesi kolaborasi ide di awal proyek.
+
+Developer Handoff: Developer dapat langsung memeriksa detail spesifikasi desain (kode warna, dimensi, kode CSS/iOS/Android) melalui mode Inspect tanpa perlu menginstal aplikasi desain.
+
+Langkah Awal Memulai
+Untuk memulai, cukup membuat akun Figma. Setelah itu, pelajari empat bagian antarmuka utama: Canvas (area kerja), Layers Panel, Properties Panel, dan Toolbar. Anda bisa langsung mencoba membuat desain dasar menggunakan frame, bentuk, dan teks. Jangan lupa menjelajahi tab Community untuk mencari template dan inspirasi gratis.
+
+Kesimpulannya, Figma adalah alat desain UI/UX modern yang fleksibel, kolaboratif, dan terpadu, menjadikannya standar industri saat ini.
+
