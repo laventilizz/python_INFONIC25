@@ -1,0 +1,24 @@
+Nama: Immada Aflah Halim
+Kelompok: Python
+
+1. Apa itu Figma?
+Figma merupakan aplikasi desain berbasis cloud yang bisa diakses melalui browser maupun aplikasi desktop. Figma dirancang terutama untuk pembuatan antarmuka pengguna (UI/UX), pengembangan prototipe interaktif, sekaligus sarana kolaborasi tim secara online.
+
+2. Alasan Memilih Figma
+Kolaborasi Real-Time: Banyak orang dapat mengedit file desain yang sama secara bersamaan, mirip dengan cara kerja Google Docs.
+Mudah Diakses: Figma dapat dijalankan di berbagai sistem operasi seperti Windows, Mac, maupun Linux, cukup melalui browser.
+Satu Platform Lengkap: Seluruh tahapan, mulai dari desain, pembuatan prototipe, hingga penyerahan aset ke developer, tersedia dalam satu ekosistem.
+Riwayat Versi: Setiap perubahan tersimpan otomatis dan dapat dikembalikan kapan saja.
+Komunitas Luas: Tersedia ribuan plugin dan file gratis buatan komunitas yang bisa membantu mempercepat pekerjaan desain.
+
+3. Fitur Utama Figma
+Desain: Dilengkapi Vector Networks, Auto Layout untuk desain responsif, serta Components yang bisa dipakai berulang.
+Prototyping: Memungkinkan pembuatan simulasi interaktif aplikasi atau situs web, lengkap dengan Smart Animate.
+FigJam: Sebuah papan tulis digital untuk brainstorming dan kolaborasi ide bersama tim.
+Developer Handoff: Developer dapat langsung memeriksa detail teknis desain, seperti ukuran, warna, serta kode CSS, iOS, atau Android melalui fitur Inspect.
+
+4. Memulai dengan Figma
+Langkah awal adalah membuat akun. Setelah itu, pengguna perlu mengenal area kerja Figma, yakni Canvas (ruang kerja utama), Layers Panel (panel lapisan), Properties Panel (pengaturan properti), serta Toolbar. Pemula dapat mencoba membuat desain sederhana menggunakan frame, bentuk, dan teks. Selain itu, tab Community bisa dimanfaatkan untuk mencari inspirasi maupun sumber daya gratis.
+
+Kesimpulan
+Secara keseluruhan, Figma dipaparkan sebagai alat yang kuat, fleksibel, dan berorientasi pada kerja tim, sehingga dianggap sebagai pilihan utama bagi para desainer UI/UX masa kini.
